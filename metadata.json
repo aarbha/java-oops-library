@@ -1,0 +1,6 @@
+{
+  "name": "Java OOPs Library Management System Lab",
+  "description": "Core Java & MySQL Library Management System for College OOPs Lab with built-in HttpServer, complete source code, viva guide, and interactive lab simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
