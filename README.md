@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+
 
 # Library Management System
 
@@ -12,7 +10,7 @@ A web-based college library app: it keeps a catalog of books across genres (Codi
 
 > The deployed demo serves the frontend only and falls back to built-in sample data ("local demo mode"). Running the full app with live MySQL persistence requires the local backend — see below.
 
-View your app in AI Studio: https://ai.studio/apps/c61ab9b9-ca9f-43b5-9aa4-ee007f58621d
+
 
 ## Run Locally
 
